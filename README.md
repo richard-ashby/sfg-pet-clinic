@@ -1,6 +1,6 @@
-# Spring Framework Guru Pet Clinic
-
 [![CircleCI](https://circleci.com/gh/richard-ashby/sfg-pet-clinic/tree/master.svg?style=svg)](https://circleci.com/gh/richard-ashby/sfg-pet-clinic/tree/master)
+
+# Spring Framework Guru Pet Clinic
 
 This repo is for the Spring Framework Guru online course called [Spring Framework 5: Beginner to Guru](https://www.udemy.com/spring-framework-5-beginner-to-guru/?couponCode=GITHUB_SFGPETCLINIC).
 
